@@ -1,0 +1,31 @@
+
+
+.card {
+  display: inline-block;
+  width: 200px;
+}
+
+.movie-card {
+  text-align: center;
+  padding: 16px;
+  margin: 20px;
+  border: 1px solid rgba(15, 23, 42, 0.12);
+  background: white;
+  border-radius: 20px;
+  box-shadow: 0 12px 24px rgba(15, 23, 42, 0.08);
+}
+
+.movie-card img.movie-poster {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin-bottom: 12px;
+  border-radius: 12px;
+}
+
+.movie-card h2 {
+  margin: 0 0 10px;
+  font-size: 1.1rem;
+  line-height: 1.3;
+}
+

@@ -1,0 +1,53 @@
+{
+    "movies": [
+        {
+            "movie_id": 1,
+            "movie_title": "The Bahubali: The Beginning",
+            "movie_director": "SS Rajamouli",
+            "release_year": 2015,
+            "genre": "Action",
+            "poster_url": "Bahubali.jpg"
+        },
+        {
+            "movie_id": 2,
+            "movie_title": "Bombey",
+            "movie_director": "Mani Ratnam",
+            "release_year": 1995,
+            "genre": "Drama",
+            "poster_url": "Bombay.jpeg"
+
+        },
+        {
+            "movie_id": 3,
+            "movie_title": "Nuvvosthanante Nenoddantana",
+            "movie_director": "Prabhu Deva",
+            "release_year": 2005,
+            "genre": "Romance",
+            "poster_url": "Nuvvu.jpeg"
+        }  ,
+        {
+            "movie_id": 4,
+            "movie_title": "mr perfect",
+            "movie_director": "Dasaradh",
+            "release_year": 2011,
+            "genre": "Romance",
+            "poster_url": "MrPerfect.jpeg"
+        },
+        {
+            "movie_id": 5,
+            "movie_title": "Annamayya",
+            "movie_director": "K Raghavendra Rao",
+            "release_year": 1997,
+            "genre": "Biographical",
+            "poster_url": "Annamayya.jpeg"
+        },
+        {
+            "movie_id": 6,
+            "movie_title": "Surya S/o Krishnan",
+            "movie_director": "Vijay",
+            "release_year": 2008,
+            "genre": "Action",
+            "poster_url": "Surya.jpeg"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+.container {
+  display: flex;
+  gap: 24px;
+  min-height: 100vh;
+  align-items: flex-start;
+  background: #e6f0ff;
+  padding: 24px;
+}
+.leftpanel {
+  width: 60%;
+  margin: 0;
+  padding: 24px;
+  background: linear-gradient(180deg, #ffffff 0%, #dbe9ff 100%);
+  border-radius: 24px;
+  box-shadow: 0 20px 50px rgba(29, 78, 216, 0.12);
+}
+.rightpanel {
+  width: 40%;
+  margin: 0;
+  padding: 24px;
+  background: linear-gradient(180deg, #ffffff 0%, #ffe9f0 100%);
+  border-radius: 24px;
+  box-shadow: 0 20px 50px rgba(216, 29, 78, 0.1);
+}
+.leftpanel h1,
+.rightpanel h1 {
+  margin-top: 0;
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 2rem;
+  letter-spacing: 0.3px;
+  color: #102a43;
+}
